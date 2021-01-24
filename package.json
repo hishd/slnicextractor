@@ -1,0 +1,22 @@
+{
+  "name": "slnicextractor",
+  "version": "1.0.1",
+  "description": "A module which will extract the hidden information of the Sri-Lankas' national ID, which can be used for validation purposes.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hishd/slnicextractor.git"
+  },
+  "keywords": [
+    "slNIC",
+    "nic",
+    "nicextractor",
+    "nicvalidator"
+  ],
+  "author": "HishD_Nimesh_Hasarel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hishd/slnicextractor/issues"
+  },
+  "homepage": "https://github.com/hishd/slnicextractor#readme"
+}
